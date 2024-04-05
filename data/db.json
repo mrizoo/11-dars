@@ -1,0 +1,143 @@
+{
+  "recipies": [
+    {
+      "id": "1",
+      "title": "Palov",
+      "cookingTime": "120 minutes",
+      "ingredients": ["rice", "carrot", "meat", "oil", "onion", "spices"],
+      "method": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi quis porttitor enim. Integer dignissim, nisi sit amet dictum varius, ipsum nibh bibendum orci, eget venenatis neque massa sit amet velit. Vestibulum accumsan posuere ultrices. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+      "imageUrl": "https://miro.medium.com/v2/resize:fit:1400/0*UxnVMQMIAowST-rp"
+    },
+    {
+      "id": "2",
+      "title": "Manti",
+      "cookingTime": "120 minutes",
+      "ingredients": ["rice", "potato", "beef", "oil", "onion", "spices"],
+      "method": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi quis porttitor enim. Integer dignissim, nisi sit amet dictum varius, ipsum nibh bibendum orci, eget venenatis neque massa sit amet velit. Vestibulum accumsan posuere ultrices. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+      "imageUrl": "https://petersfoodadventures.com/wp-content/uploads/2016/05/Manti-Russian-500x375.png"
+    },
+    {
+      "id": "3",
+      "title": "Kebab",
+      "cookingTime": "60 minutes",
+      "ingredients": ["beef", "onion", "bell pepper", "oil", "spices"],
+      "method": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi quis porttitor enim. Integer dignissim, nisi sit amet dictum varius, ipsum nibh bibendum orci, eget venenatis neque massa sit amet velit. Vestibulum accumsan posuere ultrices. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+      "imageUrl": "https://cdn7.kiwilimon.com/brightcove/8854/640x640/8854.jpg.webp "
+    },
+    {
+      "id": "4",
+      "title": "Pizza",
+      "cookingTime": "45 minutes",
+      "ingredients": [
+        "flour",
+        "tomato sauce",
+        "cheese",
+        "pepperoni",
+        "onion",
+        "mushrooms"
+      ],
+      "method": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi quis porttitor enim. Integer dignissim, nisi sit amet dictum varius, ipsum nibh bibendum orci, eget venenatis neque massa sit amet velit. Vestibulum accumsan posuere ultrices. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/classic-cheese-pizza-recipe-2-64429a0cb408b.jpg?crop=0.6666666666666667xw:1xh;center,top&resize=1200:*"
+    },
+    {
+      "id": "5",
+      "title": "Salad",
+      "cookingTime": "15 minutes",
+      "ingredients": [
+        "lettuce",
+        "tomato",
+        "cucumber",
+        "onion",
+        "olives",
+        "olive oil",
+        "vinegar"
+      ],
+      "method": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi quis porttitor enim. Integer dignissim, nisi sit amet dictum varius, ipsum nibh bibendum orci, eget venenatis neque massa sit amet velit. Vestibulum accumsan posuere ultrices. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+      "imageUrl": "https://www.thespruceeats.com/thmb/2GoDt7juuaU7lxtQDq-_IjEr6t8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/SES-our-favorite-simple-green-salad-recipe-7370448-hero-01-4ca9788a0a3c4d53b70f1d07f8382b7f.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Sushi",
+      "cookingTime": "30 minutes",
+      "ingredients": [
+        "rice",
+        "nori seaweed",
+        "fish",
+        "avocado",
+        "cucumber",
+        "soy sauce",
+        "wasabi",
+        "ginger"
+      ],
+      "method": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi quis porttitor enim. Integer dignissim, nisi sit amet dictum varius, ipsum nibh bibendum orci, eget venenatis neque massa sit amet velit. Vestibulum accumsan posuere ultrices. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+      "imageUrl": "https://img.taste.com.au/lNnNoTvU/taste/2010/01/sushi-187034-1.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Pasta",
+      "cookingTime": "20 minutes",
+      "ingredients": [
+        "pasta",
+        "tomato sauce",
+        "garlic",
+        "olive oil",
+        "basil",
+        "parmesan cheese"
+      ],
+      "method": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi quis porttitor enim. Integer dignissim, nisi sit amet dictum varius, ipsum nibh bibendum orci, eget venenatis neque massa sit amet velit. Vestibulum accumsan posuere ultrices. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+      "imageUrl": "https://www.allrecipes.com/thmb/5SdUVhHTMs-rta5sOblJESXThEE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11691-tomato-and-garlic-pasta-ddmfs-3x4-1-bf607984a23541f4ad936b33b22c9074.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Burger",
+      "cookingTime": "25 minutes",
+      "ingredients": [
+        "ground beef",
+        "burger buns",
+        "lettuce",
+        "tomato",
+        "onion",
+        "cheese",
+        "ketchup",
+        "mustard"
+      ],
+      "method": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi quis porttitor enim. Integer dignissim, nisi sit amet dictum varius, ipsum nibh bibendum orci, eget venenatis neque massa sit amet velit. Vestibulum accumsan posuere ultrices. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+      "imageUrl": "https://images.immediate.co.uk/production/volatile/sites/30/2013/05/Cheeseburger-3d7c922.jpg?resize=768,574"
+    },
+    {
+      "id": "9",
+      "title": "Tacos",
+      "cookingTime": "35 minutes",
+      "ingredients": [
+        "tortillas",
+        "beef",
+        "lettuce",
+        "tomato",
+        "onion",
+        "salsa",
+        "guacamole",
+        "cheese"
+      ],
+      "method": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi quis porttitor enim. Integer dignissim, nisi sit amet dictum varius, ipsum nibh bibendum orci, eget venenatis neque massa sit amet velit. Vestibulum accumsan posuere ultrices. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+      "imageUrl": "https://www.thespruceeats.com/thmb/ereeBcFkDEbDT2VSlDe34sqXO_8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/chicken-tinga-tinga-de-pollo-4773239-Hero_01-1bd1d960c02a4fdb812323b8c60fd55b.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Soup",
+      "cookingTime": "40 minutes",
+      "ingredients": [
+        "chicken broth",
+        "chicken",
+        "carrot",
+        "celery",
+        "onion",
+        "garlic",
+        "bay leaf",
+        "salt",
+        "pepper"
+      ],
+      "method": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi quis porttitor enim. Integer dignissim, nisi sit amet dictum varius, ipsum nibh bibendum orci, eget venenatis neque massa sit amet velit. Vestibulum accumsan posuere ultrices. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+      "imageUrl": "https://www.howtocook.recipes/wp-content/uploads/2021/11/Vegetable-soup-recipe.jpg"
+    }
+  ]
+}
